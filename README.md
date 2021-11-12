@@ -1,6 +1,6 @@
 # Переводчик
 
-<a href="https://mc.nedosite.me/main.exe">EXE</a>
+<a href="https://mc.nedosite.me/main.exe">EXE</a><br>
 <a href="https://docs.google.com/presentation/d/1KLEaBRaIOPc-bK73jdQeZIPGklDE2oxn1l3hZ8TbmwY/edit?usp=sharing">Презентация</a>
 
 Программа для перевода текстов с разных языков

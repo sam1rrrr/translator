@@ -9,4 +9,4 @@
 Используемые модули: <b>pyqt5, deep_translator, sqlite3</b>
 
 
-<img src="https://i.imgur.com/oGEGTv0.gif" width="600">
+<img src="https://i.yapx.ru/QVL9X.gif" width="600">

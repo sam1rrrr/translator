@@ -1,3 +1,3 @@
 <h1>Переводчик</h1>
 
-<img width="30%" src="screenshot.png">
+<img width="50%" src="screenshot.png">
